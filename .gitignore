@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Day01/Day001_read_image_Sample.ipynb
+.vscode
